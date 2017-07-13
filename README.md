@@ -10,7 +10,7 @@ The easiest way to get started is to add your APP_ID and API_KEY after signing u
 
 
 ## Adidas
-When purchasing sneakers on Adidas website, especially Yeezy Boost, bots always beat humans. Now, the "Recaptcha" system can be broke by bots easily. By using this API, it forces people to take a picture in front of the computer to identify the human identity, which bots can't do unless it has a face just like human.
+When purchasing sneakers on Adidas website, especially Yeezy Boost, bots always beat humans. Now, the "Recaptcha" system can be broke by bots easily. By using this API, it allows people to take a picture in front of the computer to identify the human identity, which bots can't do unless it has a face just like human.
 
 
 ## Webpage
