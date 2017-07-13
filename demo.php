@@ -384,7 +384,7 @@ var takepicture = function(video) {
 
         }
         else {
-            alert("fail");
+            alert("We need a face.");
         }
     });
     $(video).hide();
